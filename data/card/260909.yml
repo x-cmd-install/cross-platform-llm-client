@@ -7,7 +7,7 @@ about:
   latestVersion: "1.0.5"
   latestRelease: "1.0.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T02:52:05Z
+  collectedAt: 2026-09-09T18:32:21Z
 timeline:
   created: 2026-04-25
   lastCommit: 2026-07-21
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-21
   lastPrerelease: 
 popularity:
-  star: 1091
+  star: 1092
   watcher: 19
   fork: 218
   release: 2
@@ -99,7 +99,7 @@ total:
   commit: 63
 ---
 path: /home/runner/.x-repo/github.com/orailnoor/cross-platform-llm-client
-collectedAt: 2026-09-09T02:52:18Z
+collectedAt: 2026-09-09T18:32:32Z
 loc:
   Cpp:
     code: 346325
