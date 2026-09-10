@@ -22,11 +22,18 @@ x install cross-platform-llm-client
 - **Latest**: `1.0.5` (2026-07-21)
 - **Last commit**: 2026-07-21
 - **Assets in release**: 3
-- **Published**: 2026-07-21T01:33:49Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [app-arm64-v8a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-arm64-v8a-release.apk) | 71.8 MiB | `other` |
+| [app-armeabi-v7a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-armeabi-v7a-release.apk) | 34.8 MiB | `other` |
+| [app-x86_64-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-x86_64-release.apk) | 46.5 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 1,093 · **Forks**: 218 · **Open issues**: 35 · **Contributors**: 2
+- **Stars**: 1,095 · **Forks**: 218 · **Open issues**: 35 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -57,8 +64,8 @@ Total: **647,002** lines of code across **1814** files in the top 5 languages.
 Install metadata for cross-platform-llm-client lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cross-platform-llm-client` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cross-platform-llm-client.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cross-platform-llm-client.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:52:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:05:40Z._

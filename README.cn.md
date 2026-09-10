@@ -4,7 +4,7 @@
 
 A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 
-![cross-platform-llm-client](https://repo.x-cmd.io/cross-platform-llm-client.svg)
+![cross-platform-llm-client](https://repo.x-cmd.io/cross-platform-llm-client.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,18 @@ x install cross-platform-llm-client
 - **最新版本**: `1.0.5` (2026-07-21)
 - **最近提交**: 2026-07-21
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-07-21T01:33:49Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [app-arm64-v8a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-arm64-v8a-release.apk) | 71.8 MiB | `other` |
+| [app-armeabi-v7a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-armeabi-v7a-release.apk) | 34.8 MiB | `other` |
+| [app-x86_64-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-x86_64-release.apk) | 46.5 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 1,093 · **Fork**: 218 · **开放 issue**: 35 · **贡献者**: 2
+- **Star**: 1,095 · **Fork**: 218 · **开放 issue**: 35 · **贡献者**: 2
 
 ## 累计统计
 
@@ -61,4 +68,4 @@ cross-platform-llm-client 的安装元数据由 [x-cmd/install](https://github.c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:52:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:05:42Z._
