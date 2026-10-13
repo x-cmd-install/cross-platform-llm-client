@@ -14,15 +14,15 @@ x install cross-platform-llm-client
 
 ## 代码洞察
 
-合计: **648,973** 行代码（覆盖前 5 种语言、共 **1813** 个文件）。
+合计: **913,337** 行代码（覆盖前 5 种语言、共 **1943** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 346,325 | 25,596 | 66,212 | 673 |
-| C | 79,720 | 4,436 | 17,932 | 64 |
-| CHeader | 57,274 | 11,569 | 13,706 | 356 |
-| Cuda | 34,024 | 1,602 | 6,574 | 358 |
-| Glsl | 30,238 | 1,118 | 6,510 | 362 |
+| Cpp | 446,322 | 34,408 | 84,948 | 866 |
+| CHeader | 161,005 | 30,938 | 32,635 | 452 |
+| C | 103,127 | 6,346 | 22,176 | 126 |
+| CppHeader | 44,625 | 7,092 | 8,283 | 130 |
+| Cuda | 38,459 | 2,085 | 7,101 | 369 |
 
 ## 源代码
 
@@ -31,36 +31,37 @@ x install cross-platform-llm-client
 
 ## 发布
 
-- **最新版本**: `1.0.5` (2026-07-21)
-- **最近提交**: 2026-10-11
-- **Release 含资产**: 3 个
+- **最新版本**: `1.0.7` (2026-10-12)
+- **最近提交**: 2026-10-12
+- **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 1,123 · **Fork**: 229 · **开放 issue**: 36 · **贡献者**: 3
+- **Star**: 1,126 · **Fork**: 229 · **开放 issue**: 36 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 2 · **已合并 PR**: 8 · **开放 PR**: 2 · **已关闭 issue**: 16 · **开放 issue**: 20 · **提交数**: 74
+- **发布数**: 4 · **已合并 PR**: 9 · **开放 PR**: 1 · **已关闭 issue**: 26 · **开放 issue**: 10 · **提交数**: 99
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 1 | 0 | 1 | 1 |
-| last60d | 2026-08-13 | 0 | 0 | 1 | 0 | 2 | 1 |
-| 90d | 2026-07-14 | 1 | 1 | 1 | 0 | 12 | 2 |
-| last180d | 2026-04-15 | 2 | 8 | 2 | 16 | 20 | 64 |
-| 360d | 2025-10-17 | 2 | 8 | 2 | 16 | 20 | 64 |
-| last720d | 2024-10-22 | 2 | 8 | 2 | 16 | 20 | 74 |
+| 30d | 2026-09-13 | 2 | 1 | 0 | 0 | 1 | 26 |
+| last60d | 2026-08-14 | 2 | 1 | 0 | 1 | 1 | 26 |
+| 90d | 2026-07-15 | 3 | 2 | 0 | 9 | 3 | 27 |
+| last180d | 2026-04-16 | 4 | 9 | 1 | 26 | 10 | 89 |
+| 360d | 2025-10-18 | 4 | 9 | 1 | 26 | 10 | 89 |
+| last720d | 2024-10-23 | 4 | 9 | 1 | 26 | 10 | 99 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [app-arm64-v8a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-arm64-v8a-release.apk) | 71.8 MiB | `other` |
-| [app-armeabi-v7a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-armeabi-v7a-release.apk) | 34.8 MiB | `other` |
-| [app-x86_64-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.5/app-x86_64-release.apk) | 46.5 MiB | `other` |
+| [app-arm64-v8a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-arm64-v8a-release.apk) | 84.1 MiB | `other` |
+| [app-armeabi-v7a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-armeabi-v7a-release.apk) | 36.9 MiB | `other` |
+| [app-universal-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-universal-release.apk) | 133.7 MiB | `other` |
+| [app-x86_64-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-x86_64-release.apk) | 46.6 MiB | `other` |
 
 ## 改进这些数据
 
@@ -71,4 +72,4 @@ cross-platform-llm-client 的安装元数据由 [x-cmd/install](https://github.c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T04:07:13Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T05:15:20Z._
