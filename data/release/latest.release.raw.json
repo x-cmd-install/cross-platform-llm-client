@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 88236957,
       "digest": "sha256:7b77e1c48cbea26ecbac86ca0488ee37e1afc4ca57a5aa756a8a8262df5f2830",
-      "download_count": 4074,
+      "download_count": 4216,
       "created_at": "2026-10-12T13:24:32Z",
       "updated_at": "2026-10-12T13:25:42Z",
       "browser_download_url": "https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-arm64-v8a-release.apk"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 38739801,
       "digest": "sha256:7e455a7de213934a6b2b44d282c0f6762a0a0e4d901ed27d8d79bc8778d5e7b5",
-      "download_count": 84,
+      "download_count": 91,
       "created_at": "2026-10-12T13:24:32Z",
       "updated_at": "2026-10-12T13:25:14Z",
       "browser_download_url": "https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-armeabi-v7a-release.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 140164725,
       "digest": "sha256:90b54e742701e2c9f2a8f9c437c6ed81a2d4228ffcc2dd1e1ae6c853e680ccbc",
-      "download_count": 158,
+      "download_count": 172,
       "created_at": "2026-10-12T13:24:32Z",
       "updated_at": "2026-10-12T13:25:57Z",
       "browser_download_url": "https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-universal-release.apk"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 48879735,
       "digest": "sha256:1e12005e5be6b2c57512462fbcdb7e26f9364d566b65ccbfe8032c671e92c3f1",
-      "download_count": 44,
+      "download_count": 46,
       "created_at": "2026-10-12T13:24:32Z",
       "updated_at": "2026-10-12T13:25:22Z",
       "browser_download_url": "https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-x86_64-release.apk"
