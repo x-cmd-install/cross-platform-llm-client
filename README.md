@@ -14,12 +14,12 @@ x install cross-platform-llm-client
 
 ## Code insight
 
-Total: **913,337** lines of code across **1943** files in the top 5 languages.
+Total: **915,646** lines of code across **1944** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 446,322 | 34,408 | 84,948 | 866 |
-| CHeader | 161,005 | 30,938 | 32,635 | 452 |
+| Cpp | 446,663 | 34,468 | 84,974 | 866 |
+| CHeader | 161,019 | 30,951 | 32,646 | 453 |
 | C | 103,127 | 6,346 | 22,176 | 126 |
 | CppHeader | 44,625 | 7,092 | 8,283 | 130 |
 | Cuda | 38,459 | 2,085 | 7,101 | 369 |
@@ -31,37 +31,34 @@ Total: **913,337** lines of code across **1943** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.0.7` (2026-10-12)
-- **Last commit**: 2026-10-12
-- **Assets in release**: 4
+- **Latest**: `1.0.7-cluster` (2026-11-04)
+- **Last commit**: 2026-11-04
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 1,156 · **Forks**: 235 · **Open issues**: 36 · **Contributors**: 3
+- **Stars**: 1,362 · **Forks**: 276 · **Open issues**: 36 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 26 · **Open issues**: 10 · **Commits**: 99
+- **Releases**: 5 · **Merged PRs**: 10 · **Open PRs**: 3 · **Closed issues**: 26 · **Open issues**: 10 · **Commits**: 103
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 1 | 1 | 0 | 0 | 26 |
-| last60d | 2026-09-05 | 2 | 1 | 1 | 0 | 1 | 26 |
-| 90d | 2026-08-06 | 2 | 1 | 1 | 4 | 3 | 26 |
-| last180d | 2026-05-08 | 3 | 6 | 2 | 26 | 10 | 62 |
-| 360d | 2025-11-09 | 4 | 9 | 2 | 26 | 10 | 89 |
-| last720d | 2024-11-14 | 4 | 9 | 2 | 26 | 10 | 99 |
+| 30d | 2026-10-06 | 3 | 2 | 2 | 0 | 0 | 29 |
+| last60d | 2026-09-06 | 3 | 2 | 2 | 0 | 1 | 29 |
+| 90d | 2026-08-07 | 3 | 2 | 2 | 4 | 3 | 29 |
+| last180d | 2026-05-09 | 4 | 7 | 3 | 26 | 10 | 65 |
+| 360d | 2025-11-10 | 5 | 10 | 3 | 26 | 10 | 92 |
+| last720d | 2024-11-15 | 5 | 10 | 3 | 26 | 10 | 103 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [app-arm64-v8a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-arm64-v8a-release.apk) | 84.1 MiB | `other` |
-| [app-armeabi-v7a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-armeabi-v7a-release.apk) | 36.9 MiB | `other` |
-| [app-universal-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-universal-release.apk) | 133.7 MiB | `other` |
-| [app-x86_64-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-x86_64-release.apk) | 46.6 MiB | `other` |
+| [PrivateLM-1.0.7.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7-cluster/PrivateLM-1.0.7.apk) | 135.4 MiB | `other` |
 
 ## Improve this data
 
@@ -72,4 +69,4 @@ Install metadata for cross-platform-llm-client lives in the [x-cmd/install](http
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T04:39:52Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T04:55:03Z._

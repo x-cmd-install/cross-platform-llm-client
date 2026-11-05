@@ -14,12 +14,12 @@ x install cross-platform-llm-client
 
 ## 代码洞察
 
-合计: **913,337** 行代码（覆盖前 5 种语言、共 **1943** 个文件）。
+合计: **915,646** 行代码（覆盖前 5 种语言、共 **1944** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 446,322 | 34,408 | 84,948 | 866 |
-| CHeader | 161,005 | 30,938 | 32,635 | 452 |
+| Cpp | 446,663 | 34,468 | 84,974 | 866 |
+| CHeader | 161,019 | 30,951 | 32,646 | 453 |
 | C | 103,127 | 6,346 | 22,176 | 126 |
 | CppHeader | 44,625 | 7,092 | 8,283 | 130 |
 | Cuda | 38,459 | 2,085 | 7,101 | 369 |
@@ -31,37 +31,34 @@ x install cross-platform-llm-client
 
 ## 发布
 
-- **最新版本**: `1.0.7` (2026-10-12)
-- **最近提交**: 2026-10-12
-- **Release 含资产**: 4 个
+- **最新版本**: `1.0.7-cluster` (2026-11-04)
+- **最近提交**: 2026-11-04
+- **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 1,156 · **Fork**: 235 · **开放 issue**: 36 · **贡献者**: 3
+- **Star**: 1,362 · **Fork**: 276 · **开放 issue**: 36 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 4 · **已合并 PR**: 9 · **开放 PR**: 2 · **已关闭 issue**: 26 · **开放 issue**: 10 · **提交数**: 99
+- **发布数**: 5 · **已合并 PR**: 10 · **开放 PR**: 3 · **已关闭 issue**: 26 · **开放 issue**: 10 · **提交数**: 103
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 1 | 1 | 0 | 0 | 26 |
-| last60d | 2026-09-05 | 2 | 1 | 1 | 0 | 1 | 26 |
-| 90d | 2026-08-06 | 2 | 1 | 1 | 4 | 3 | 26 |
-| last180d | 2026-05-08 | 3 | 6 | 2 | 26 | 10 | 62 |
-| 360d | 2025-11-09 | 4 | 9 | 2 | 26 | 10 | 89 |
-| last720d | 2024-11-14 | 4 | 9 | 2 | 26 | 10 | 99 |
+| 30d | 2026-10-06 | 3 | 2 | 2 | 0 | 0 | 29 |
+| last60d | 2026-09-06 | 3 | 2 | 2 | 0 | 1 | 29 |
+| 90d | 2026-08-07 | 3 | 2 | 2 | 4 | 3 | 29 |
+| last180d | 2026-05-09 | 4 | 7 | 3 | 26 | 10 | 65 |
+| 360d | 2025-11-10 | 5 | 10 | 3 | 26 | 10 | 92 |
+| last720d | 2024-11-15 | 5 | 10 | 3 | 26 | 10 | 103 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [app-arm64-v8a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-arm64-v8a-release.apk) | 84.1 MiB | `other` |
-| [app-armeabi-v7a-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-armeabi-v7a-release.apk) | 36.9 MiB | `other` |
-| [app-universal-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-universal-release.apk) | 133.7 MiB | `other` |
-| [app-x86_64-release.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7/app-x86_64-release.apk) | 46.6 MiB | `other` |
+| [PrivateLM-1.0.7.apk](https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7-cluster/PrivateLM-1.0.7.apk) | 135.4 MiB | `other` |
 
 ## 改进这些数据
 
@@ -72,4 +69,4 @@ cross-platform-llm-client 的安装元数据由 [x-cmd/install](https://github.c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T04:39:53Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T04:55:04Z._
