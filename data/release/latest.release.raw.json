@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 142020078,
       "digest": "sha256:2a5a70db468920494d23d62c6ba180b1ebf63014596229e998a2630786715556",
-      "download_count": 8367,
+      "download_count": 8540,
       "created_at": "2026-11-04T11:02:39Z",
       "updated_at": "2026-11-04T11:03:16Z",
       "browser_download_url": "https://github.com/orailnoor/cross-platform-llm-client/releases/download/1.0.7-cluster/PrivateLM-1.0.7.apk"
